@@ -1,0 +1,31 @@
+body{
+
+    background-color: antiquewhite;
+}
+
+img{
+    float: left;
+    width: 6em;
+    height: 6em;
+    margin-left: 1rem;
+    margin-right: 1em;
+    border-radius: 90%;
+}
+
+header{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: lightskyblue;
+ }
+
+h1{
+
+color: darkolivegreen;
+
+}
+
+main{
+    margin-left: 10%;
+}
+
+footer{margin-left: 10%;}
